@@ -6,7 +6,7 @@
   width: 1400px;
 }
 
-  @media screen and (min-width: 961px) and (max-width: 1880px) {
+  @media screen and (min-width: 737px) and (max-width: 1880px) {
 
     .container {
       width: 1200px;
@@ -14,7 +14,7 @@
 
   }
 
-  @media screen and (min-width: 961px) and (max-width: 1620px) {
+  @media screen and (min-width: 737px) and (max-width: 1620px) {
 
     .container {
       width: 960px;
@@ -22,7 +22,7 @@
 
   }
 
-  @media screen and (min-width: 961px) and (max-width: 1320px) {
+  @media screen and (min-width: 737px) and (max-width: 1320px) {
 
     .container {
       width: 100%;
@@ -289,7 +289,7 @@
 					padding-top: 80px;
 				}
 
-		@media screen and (min-width: 961px) and (max-width: 1880px) {
+		@media screen and (min-width: 737px) and (max-width: 1880px) {
 
 			.row {
 				display: flex;
@@ -534,7 +534,7 @@
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1620px) {
+		@media screen and (min-width: 737px) and (max-width: 1620px) {
 
 			.row {
 				display: flex;
@@ -779,7 +779,7 @@
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		@media screen and (min-width: 737px) and (max-width: 1320px) {
 
 			.row {
 				display: flex;
@@ -1745,8 +1745,8 @@
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/myPics/9.png");
+      /* background-color: #81918E;
+      background-image: url("../../images/myPics/9.png"); */
     }
 
     #main > section.two {
@@ -1763,7 +1763,7 @@
 
 /* Wide */
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
 
   /* Basic */
 
@@ -2120,4 +2120,13 @@
         margin-top: 0;
       }
 
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
 }
