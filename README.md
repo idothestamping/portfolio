@@ -1,11 +1,11 @@
 # portfolio
 
-Number and name of feature: Lab 05a
+Number and name of feature: Lab 05b
 
-Estimate of time needed to complete: 3hrs
+Estimate of time needed to complete: 1.5hrs
 
-Start time: 9:00 am
+Start time: 11:40 am
 
-Finish time: 11:30am
+Finish time: 12:40 pm
 
-Actual time needed to complete: 2.5hrs
+Actual time needed to complete: 1hrs
